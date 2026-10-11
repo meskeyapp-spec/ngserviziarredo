@@ -28,7 +28,7 @@ const TEL_HREF = '+393664318553';
 const PIVA   = '04845940271';
 const IUB_PRIVACY = 'https://www.iubenda.com/privacy-policy/76628430';
 const IUB_COOKIE  = 'https://www.iubenda.com/privacy-policy/76628430/cookie-policy';
-const WEB3FORMS_KEY = 'INSERISCI_LA_TUA_ACCESS_KEY_WEB3FORMS';
+const WEB3FORMS_KEY = 'da534d7f-7f25-4a11-9d2d-6105289e86ba';
 
 const SOCIAL = {
   facebook:  'https://www.facebook.com/profile.php?id=61557172911297',
