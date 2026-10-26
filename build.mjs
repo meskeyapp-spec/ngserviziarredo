@@ -165,7 +165,9 @@ function footer() {
       <a href="${IUB_PRIVACY}" target="_blank" rel="noopener">Privacy Policy</a>
       <span aria-hidden="true">&middot;</span>
       <a href="${IUB_COOKIE}" target="_blank" rel="noopener">Cookie Policy</a>
-    </p>
+    <span aria-hidden="true">&middot;</span>
+    <a href="https://meskeyapp-spec.github.io/meskey-privacy/" target="_blank" rel="noopener">Privacy app Meskey</a>
+  </p>
   </div>
 </footer>`;
 }
